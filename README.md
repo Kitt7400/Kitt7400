@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Kitt7400
-- 👀 I’m interested in Dancing,drawing...
-- 🌱 I’m currently learning computer science...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 🙋‍♂️ About Me
+- 🎓 MCA Student | Data Analyst Enthusiast + Frontend Learner
+- 🛠️ Skills: Python, SQL, Power BI, Excel, HTML, CSS
+- 🔍 Passionate about turning data into insights and building intuitive web interfaces
+- 💼 Currently working on: Data dashboards + interactive web apps
+
 
 <!---
 Kitt7400/Kitt7400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
